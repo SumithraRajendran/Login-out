@@ -18,9 +18,6 @@ Welcome to the README for the Travel App created using the Django framework. Thi
 - Secure password hashing and storage.
 - Logout functionality to end user sessions.
 
- ## Demo
-
-Check out the live demo of the calculator [here](http://127.0.0.1:5500/index.html).
 
 ## Getting Started
 
