@@ -10,8 +10,7 @@ Welcome to the README for the Travel App created using the Django framework. Thi
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
